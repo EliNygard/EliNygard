@@ -1,5 +1,7 @@
 ## Hi, I'm Eli Nygård
 
+I am currently studying Frontend Development at Noroff Higher Vocational College in Norway where I will gradtuate June 2025. 
+
 <!--
 **EliNygard/EliNygard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
