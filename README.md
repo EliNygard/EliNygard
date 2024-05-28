@@ -2,6 +2,9 @@
 
 I am currently studying Front-end Development at Noroff Higher Vocational College in Norway where I will gradtuate in June 2025. 
 
+// image of computer, chocolate, plant
+My happy workstation: my computer, chcolate, green plants
+
 <!--
 **EliNygard/EliNygard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
