@@ -1,6 +1,20 @@
 ## Hi, I'm Eli Nygård
 
+
 I am currently studying Front-end Development at Noroff Higher Vocational College in Norway where I will gradtuate in June 2025. 
+
+
+// Link to my portfolio
+Please feel free to check my portfolio
+
+// Languages
+HTML, CSS, JS
+
+// contact 
+email
+linkedin
+
+
 
 <!--
 **EliNygard/EliNygard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
