@@ -19,6 +19,15 @@ I am currently studying Front-end Development at Noroff Higher Vocational Colleg
   [<img title="VS Code" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img title="GitHub" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 
+## Contact:
+Feel free to contact me
+
+Eli Nygård 
+
+Email: eli.nygard@gmail.com
+
+[My Linkedin Page](https://www.linkedin.com/in/eli-nyg%C3%A5rd/)
+
 <!--
 **EliNygard/EliNygard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
