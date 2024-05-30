@@ -30,22 +30,22 @@ After many years as a sound technichian working in the film and television indus
 
 ## My Statistics
 
-<br/>
 <p align="left">
   
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EliNygard&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EliNygard&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EliNygard&show_icons=true&theme=vue&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EliNygard&theme=vue&hide_border=true" />
   
 </p>
 <br>
 
 ## Academic Background
-2023 - 2025: Front-end Development, 2 year, Noroff Higher Vocational College
-2009 - 2014: Film and Video Production, Master's Degree, Norwegian University of Science and Technology - NTNU
+2023 -     : Front-end Development | 2 years | Noroff Higher Vocational College
+
+2009 - 2014: Film and Video Production | Master's Degree | Norwegian University of Science and Technology - NTNU
 
 <br>
 
-## Contact:
+## Contact
 Feel free to contact me
 
 Email: eli.nygard@gmail.com
@@ -53,6 +53,14 @@ Email: eli.nygard@gmail.com
 [My Linkedin Page](https://www.linkedin.com/in/eli-nyg%C3%A5rd/)
 
 <p align="right"><a href="#readme-top">⬆️ Back to Top</a></p>
+
+
+### Credits
+#### Inspiration and code snippets from:
+[abhigyantrips](https://github.com/abhigyantrips)
+
+[jacquelineatae](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/jacquelineatae.md)
+
 
 <!--
 **EliNygard/EliNygard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
