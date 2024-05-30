@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 ## Hi, I'm Eli Nygård
 
 I am currently studying Front-end Development at Noroff Higher Vocational College in Norway where I will gradtuate in June 2025.
@@ -34,6 +35,8 @@ Feel free to contact me
 Email: eli.nygard@gmail.com
 
 [My Linkedin Page](https://www.linkedin.com/in/eli-nyg%C3%A5rd/)
+
+<p align="right"><a href="#readme-top">⬆️ Back to Top</a></p>
 
 <!--
 **EliNygard/EliNygard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
