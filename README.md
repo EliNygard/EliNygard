@@ -2,7 +2,10 @@
 
 I am currently studying Front-end Development at Noroff Higher Vocational College in Norway where I will gradtuate in June 2025. 
 
-![image]()
+
+<img height="350px" src="https://i.ibb.co/JBJX69z/2149155749.jpg"/>
+<a href="https://www.freepik.com/premium-psd/close-up-computer-mockup-surrounded-by-plants_22630693.htm#from_view=detail_alsolike">Image by freepik</a>
+
 
 
 ## Language and Tools: 
