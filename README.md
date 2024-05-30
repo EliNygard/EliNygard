@@ -28,6 +28,17 @@ After many years as a sound technichian working in the film and television indus
 
 <br>
 
+## My Statistics
+
+<br/>
+<p align="left">
+  
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EliNygard&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EliNygard&theme=gruvbox&hide_border=true" />
+  
+</p>
+<br>
+
 ## Academic Background
 2023 - 2025: Front-end Development, 2 year, Noroff Higher Vocational College
 2009 - 2014: Film and Video Production, Master's Degree, Norwegian University of Science and Technology - NTNU
