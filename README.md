@@ -31,11 +31,14 @@ After many years as a sound technichian working in the film and television indus
 ## My Statistics
 
 <p align="left">
-  
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliNygard&layout=compact&theme=vue&hide_border=true" />
+</p>
+<p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EliNygard&show_icons=true&theme=vue&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EliNygard&theme=vue&hide_border=true" />
   
 </p>
+  
 <br>
 
 ## Academic Background
