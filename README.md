@@ -5,7 +5,7 @@ I am currently studying Front-end Development at Noroff Higher Vocational Colleg
 
 <br>
 
-After many years as a sound technichian working in the film and television industyry, I wanted to take on a new path in my career. I have always been interested in design and technology, and I am looking forward to bringing my knowledge into my new chapter.
+After many years as a sound technician working in the film and television industry, I wanted to take on a new path in my career. I have always been interested in design and technology, and I am looking forward to bringing my knowledge into my new chapter. 
 
 <br>
 
