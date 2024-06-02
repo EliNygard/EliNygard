@@ -9,7 +9,7 @@ After many years as a sound technician working in the film and television indust
 
 <br>
 
-<img height="300px" width="400px" object-fit="fill" src="https://i.ibb.co/JBJX69z/2149155749.jpg"/>
+<img height="300px" width="100%" object-fit="fill" src="https://i.ibb.co/JBJX69z/2149155749.jpg"/>
 <a href="https://www.freepik.com/free-photo/high-angle-interior-design-with-many-plants_20081989.htm#fromView=search&page=1&position=17&uuid=42c39d9f-4ad5-4cb0-8827-fbd2424797de">Image by freepik</a>
 
 <br>
