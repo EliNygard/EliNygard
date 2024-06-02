@@ -42,7 +42,7 @@ After many years as a sound technician working in the film and television indust
 <br>
 
 ## Academic Background
-2023 -     : Front-end Development | 2 years | Noroff Higher Vocational College
+2023 - present: Front-end Development | 2 years | Noroff Higher Vocational College
 
 2009 - 2014: Film and Video Production | Master's Degree | Norwegian University of Science and Technology - NTNU
 
