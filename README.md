@@ -28,7 +28,7 @@ After many years as a sound technician working in the film and television indust
 
 <br>
 
-## My Statistics
+<!-- ## My Statistics -->
 
 <p align="left">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliNygard&layout=compact&theme=vue&hide_border=true" />
