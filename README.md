@@ -30,9 +30,11 @@ After many years as a sound technician working in the film and television indust
 
 <!-- ## My Statistics -->
 
+<!--
 <p align="left">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliNygard&layout=compact&theme=vue&hide_border=true" />
 </p>
+-->
 <!--
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EliNygard&show_icons=true&theme=vue&hide_border=true" />
