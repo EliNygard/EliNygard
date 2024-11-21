@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 ## Hi, I'm Eli Nygård
 
-I am currently studying Front-end Development at Noroff Higher Vocational College in Norway where I will gradtuate in June 2025.
+I am currently studying Front-end Development at Noroff Higher Vocational College in Norway where I will graduate in June 2025.
 
 <br>
 
