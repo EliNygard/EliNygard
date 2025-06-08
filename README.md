@@ -17,7 +17,7 @@ After many years as a sound technician working in the film and television indust
 
 ## Language and Tools
 #### Currently Studying
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,tailwind,react,nextjs)](https://skillicons.dev)
 
 #### Tools
   [<img title="Figma" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
