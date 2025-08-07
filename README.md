@@ -1,6 +1,6 @@
 ## Hi, I'm Eli Nygård
 
-### Frontend developer
+### Front-end developer
 
 <img src="https://github.com/EliNygard/EliNygard/blob/main/DesigedByFreepik_desk_plants.jpg?raw=true" width="600" alt="My home office, computer and plants. Design by Freepik" />
 
