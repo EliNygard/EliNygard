@@ -9,7 +9,9 @@ After many years as a sound technician working in the film and television indust
 
 <br>
 
-<img height="100%" width="400px" src="https://i.ibb.co/JBJX69z/2149155749.jpg" alt="A desk with a computer surrounded with green plants"/>
+![A desk](https://www.freepik.com/free-photo/high-angle-interior-design-with-many-plants_20081989.htm#from_element=cross_selling__photo)
+
+
 
 
 <br>
