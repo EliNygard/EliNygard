@@ -47,8 +47,4 @@ Email: eli.nygard@gmail.com
 [My Linkedin Page](https://www.linkedin.com/in/eli-nyg%C3%A5rd/)
 
 ### Credits
-<a href="https://www.freepik.com/free-photo/high-angle-interior-design-with-many-plants_20081989.htm#fromView=search&page=1&position=17&uuid=42c39d9f-4ad5-4cb0-8827-fbd2424797de">Image by freepik</a>
-#### Inspiration and code snippets from:
-[abhigyantrips](https://github.com/abhigyantrips)
-
-[jacquelineatae](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/jacquelineatae.md)
+<a href="https://www.freepik.com/free-photo/high-angle-interior-design-with-many-plants_20081989.htm#fromView=search&page=1&position=17&uuid=42c39d9f-4ad5-4cb0-8827-fbd2424797de">Banner image designed by Freepik</a>
