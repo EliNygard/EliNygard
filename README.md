@@ -70,6 +70,9 @@ Email: eli.nygard@gmail.com
 [jacquelineatae](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/jacquelineatae.md)
 
 
+// image of computer, chocolate, plant
+My happy workstation: my computer, chcolate, green plants
+
 <!--
 **EliNygard/EliNygard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
